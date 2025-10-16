@@ -1,1 +1,1 @@
-# COMP3900
+# COMP3900 - Capstone Project
